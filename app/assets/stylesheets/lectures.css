@@ -1,0 +1,7 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+.webcam { width: 940px; height: 940px; position: relative; margin-top:0px; }
+.small_head { position: absolute; width: 240px; top: 690px; left: 690px; }
+}
